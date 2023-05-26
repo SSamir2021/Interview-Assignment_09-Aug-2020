@@ -1,0 +1,8 @@
+1) Create table "Employee" in SQL Server database, as per the table creation script "Create_EmployeeTbl_Script.sql" present in current folder.
+
+2) Open the ASP.Net MVC application in Visual Studio 2019.
+
+3) Change the connection string in Web.config file present in "EmployeesWebApi" project (at path ..\ManageEmployees\EmployeesWebApi\Web.config).
+Make the changes in the connection string, as per the SQL Server database and server name.
+
+4) Build the solution once, and then run it.
